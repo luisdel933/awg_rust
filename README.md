@@ -1,8 +1,8 @@
-# awg_equiv
+# awg_rust
 
 Aplicación de escritorio escrita en **Rust** para consultar y calcular equivalencias de calibres de cable **AWG** (American Wire Gauge), con interfaz gráfica construida con [egui/eframe](https://github.com/emilk/egui).
 
-> ⚠️ Ajusta esta descripción a lo que realmente hace tu programa (por ejemplo: conversión AWG ↔ mm², diámetro, resistencia, capacidad de corriente, etc.).
+> Conversión AWG ↔ mm², diámetro, resistencia, capacidad de corriente, etc.).
 
 ## Características
 
